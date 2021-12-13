@@ -1,2 +1,2 @@
-# tokio-agent
-tokio agent example without 
+# tokio-actor
+tokio agent example without actor libraries
